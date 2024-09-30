@@ -12,7 +12,9 @@ script uses all main columns and fit a linear model using the first categorical 
 enter as additional arguments in Perseus the contrasts you are interested in, separated with "," and without any white space  
 beside simple contrast like "mut-wt" more sophisticated are possible "(mutCtrl-wtCtrl)-(mutTreat-wtTreat)"  
 
-![contrasts](/assets/contrasts.png)
+<p align="center">
+  <img src="/assets/contrasts.png" />
+</p>
 
 to avoid unwanted effects, please follow R rules for naming of columns and categories:  
 variables should start by a letter, followed either by a letter or a digit, while the words should be separated with dots or underscores 
