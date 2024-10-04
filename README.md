@@ -16,6 +16,10 @@ beside simple contrast like "mutCtrl-wtCtrl" more sophisticated one are possible
   <img src="/assets/contrasts.png" />
 </p>
 
+<p align="center">
+  <img src="/assets/limma1.png" />
+</p>
+
 To avoid unwanted effects, please follow R rules for naming of columns and categories:  
 variables should start by a letter, followed either by a letter or a digit, while the words should be separated with dots or underscores. 
 
